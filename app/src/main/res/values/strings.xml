@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="player2_score">0</string>
+    <string name="player1_score">0</string>
+    <string name="score_board">Score Board</string>
+    <string name="reset_game">Reset Game</string>
+    <string name="computer">Computer</string>
+    <string name="player">Player</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="player1nickname">player1nickname</string>
+    <string name="player2nickname">player2nickname</string>
+    <string name="tic_tac_toe_dota_2_edition">Tic Tac Toe Dota 2 edition</string>
+    <string name="player_vs_computer">Player vs Computer</string>
+    <string name="play">Play</string>
+    <string name="player_vs_player">Player vs Player</string>
+    <string name="player_1">Player 1</string>
+    <string name="player_2">Player 2</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="accept">Accept</string>
+</resources>
